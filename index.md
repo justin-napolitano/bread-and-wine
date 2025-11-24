@@ -1,12 +1,26 @@
 ---
-slug: "github-bread-and-wine"
-title: "bread-and-wine"
-repo: "justin-napolitano/bread-and-wine"
-githubUrl: "https://github.com/justin-napolitano/bread-and-wine"
-generatedAt: "2025-11-23T08:40:41.594836Z"
-source: "github-auto"
+slug: github-bread-and-wine
+title: 'Bread and Wine: Personal Literary Analysis Using Markdown and Metadata'
+repo: justin-napolitano/bread-and-wine
+githubUrl: https://github.com/justin-napolitano/bread-and-wine
+generatedAt: '2025-11-23T08:40:41.594836Z'
+source: github-auto
+summary: >-
+  Overview of a personal project using markdown and front matter metadata to document and analyze
+  themes from the novel Bread and Wine.
+tags:
+  - markdown
+  - literary-analysis
+  - personal-infra
+  - metadata
+  - static-site
+seoPrimaryKeyword: literary analysis
+seoSecondaryKeywords:
+  - markdown
+  - bread and wine
+  - front matter metadata
+seoOptimized: true
 ---
-
 
 # Bread and Wine: Project Overview and Technical Notes
 
