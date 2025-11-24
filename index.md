@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - bread and wine
   - front matter metadata
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post describes a personal literary analysis project using markdown and metadata primarily for
+  personal reflection and archival. It focuses on lifestyle and thought documentation rather than
+  automation, devtools, static blogs, or data science.
 ---
 
 # Bread and Wine: Project Overview and Technical Notes
@@ -55,3 +61,4 @@ The project addresses the need for a disciplined, readable format to capture com
 ## Summary
 
 This repository is a personal literary analysis tool implemented with minimal technical overhead. It leverages markdown and metadata for content management and is structured to allow incremental expansion. The focus remains on content quality and thematic depth rather than technical complexity.
+
