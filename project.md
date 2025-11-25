@@ -1,27 +1,28 @@
 ---
 slug: github-bread-and-wine
 id: github-bread-and-wine
-title: 'Bread and Wine Project: Reflections on a Novel'
+title: 'Bread and Wine Project: Reflections and Analysis'
 repo: justin-napolitano/bread-and-wine
 githubUrl: https://github.com/justin-napolitano/bread-and-wine
 generatedAt: '2025-11-24T21:34:06.905Z'
 source: github-auto
 summary: >-
-  Explore in-depth reflections and thematic essays on Ignazio Silone's 'Bread
-  and Wine' with a focus on idealism and human nature.
+  Explore in-depth reflections and thematic essays on Ignazio Silone's novel
+  'Bread and Wine' with a focus on idealism and human nature.
 tags:
   - markdown
   - static site
   - GitHub
   - literary analysis
   - project documentation
+  - personal essays
 seoPrimaryKeyword: bread and wine project
 seoSecondaryKeywords:
-  - Ignazio Silone essays
+  - Ignazio Silone reflections
   - thematic exploration
   - markdown content
-  - GitHub repository
-  - literary reflections
+  - literary essays
+  - GitHub static content
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
